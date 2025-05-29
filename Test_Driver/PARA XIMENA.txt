@@ -1,0 +1,7 @@
+En esta carpeta tienes todo, frontend y backend, los diagramas y el diccionario
+
+
+_____ LEE LOS README.md _____
+son archivos de texto 
+te ayudaran a poder ejecutar el proyecto
+empieza por el backend
